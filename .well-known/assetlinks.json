@@ -1,8 +1,22 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "URBAPARK.CODIGOS",
-    "sha256_cert_fingerprints": ["7D:1A:6E:C0:A2:3F:58:8A:56:98:7C:83:9C:F3:EC:71:40:4F:0B:FB:87:0B:EF:90:80:94:06:7D:E9:01:5F:2B"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "URBAPARK.CODIGOS",
+      "sha256_cert_fingerprints": [
+        "7D:1A:6E:C0:A2:3F:58:8A:56:98:7C:83:9C:F3:EC:71:40:4F:0B:FB:87:0B:EF:90:80:94:06:7D:E9:01:5F:2B"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.dennyszuniga_svg.twa",
+      "sha256_cert_fingerprints": [
+        "83:33:AC:85:BC:B6:9F:1A:D2:A8:41:56:1C:2E:C6:8E:BC:CF:4F:F9:24:C2:13:82:E5:2A:47:95:5A:6F:68:89"
+      ]
+    }
   }
-}]
+]
